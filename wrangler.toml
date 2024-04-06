@@ -1,0 +1,6 @@
+name = "fastapi"
+compatibility_date = "2024-04-06"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN = 'AZPnASQgY2JiNzQwZTItMGEwZi00M2Q1LWI4ZmMtYzFhODNlY2RlMWQ5MTViODc2ZDYxZmU5NDJmMjk3NTQzZGNjNmZkMGM1MDM='
+UPSTASH_REDIS_REST_URL = 'https://easy-skunk-37863.upstash.io'
